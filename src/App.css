@@ -44,7 +44,7 @@ img {
   border: 1px solid black;
 }
 
-.sideBar {
+.sidebar {
   grid-area: sidebar;
   border: 1px solid black;
 }
